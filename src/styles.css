@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+.bgImage{
+    background-image: url("./assets/thanosGauntlet.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    border-radius: 2%;
+}
+
+.form-bg{
+    background-color: lightgrey;
+    border-radius: 2%;
+}
+.form-border{
+    border-right: 10px solid white;
+    border-radius: 10%;
+}
